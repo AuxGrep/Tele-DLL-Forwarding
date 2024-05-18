@@ -25,5 +25,9 @@ The Exploit was testing on Windows 10, Windows 11 23H..
 ![image](https://github.com/AuxGrep/Tele-DLL-Forwarding/assets/103135612/db8ca0ae-531d-4215-a8a8-c3f688f45b29)
 
 
-# OUTPUT 
+# DEMO
+https://github.com/AuxGrep/Tele-DLL-Forwarding/assets/103135612/c357a63f-1b05-4501-87bb-a920bbe99aba
+
+Full Demo : https://u.pcloud.link/publink/show?code=XZ1q2j0ZoCvvwC5Gsbf0uIqmHOrsBQgj1nwy
+
 
