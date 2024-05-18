@@ -33,9 +33,11 @@ https://github.com/AuxGrep/Tele-DLL-Forwarding/assets/103135612/4200f8fa-c090-48
 Full Demo : https://u.pcloud.link/publink/show?code=XZ1q2j0ZoCvvwC5Gsbf0uIqmHOrsBQgj1nwy
 
 # Install
-1. sudo apt install gcc-mingw-w64-x86-64
-2. Build a telegram bot using BOtfather then paste the API Token on bot.py and start the bot to generate a DLL file
-3. Build any loader of your choice to drop the DLL to victim and include it path
+1. sudo apt-get update 
+2. sudo apt install gcc-mingw-w64-x86-64
+3. sudo pip3 install telebot
+4. Build a telegram bot using BOtfather then paste the API Token on bot.py and start the bot to generate a DLL file
+5. Build any loader of your choice to drop the DLL to victim and include it path
    for example : USING a powersell
    
    ![image](https://github.com/AuxGrep/Tele-DLL-Forwarding/assets/103135612/70a10f87-da8b-41b0-9060-e2353e22a30c)
