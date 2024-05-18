@@ -26,8 +26,18 @@ The Exploit was testing on Windows 10, Windows 11 23H..
 
 
 # DEMO
-https://github.com/AuxGrep/Tele-DLL-Forwarding/assets/103135612/c357a63f-1b05-4501-87bb-a920bbe99aba
+https://github.com/AuxGrep/Tele-DLL-Forwarding/assets/103135612/4200f8fa-c090-48ba-b258-de1ac8331771
 
+
+# FULL DEMO
 Full Demo : https://u.pcloud.link/publink/show?code=XZ1q2j0ZoCvvwC5Gsbf0uIqmHOrsBQgj1nwy
 
+# Install
+1. sudo apt install gcc-mingw-w64-x86-64
+2. Build a telegram bot using BOtfather then paste the API Token on bot.py and start the bot to generate a DLL file
+3. Build any loader of your choice to drop the DLL to victim and include it path
+   for example : USING a powersell
+   
+   ![image](https://github.com/AuxGrep/Tele-DLL-Forwarding/assets/103135612/70a10f87-da8b-41b0-9060-e2353e22a30c)
 
+You can convert also a ps1 powershell to exe if you want. That is your task!!!
